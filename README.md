@@ -33,7 +33,7 @@ pip install opencv-python
 ### Running the Program
 
 1. Open the project in your preferred Python development environment (e.g., PyCharm).
-2. Run the `virtual_painting.py` script.
+2. Run the `VirtualPaint.py` script.
 3. The camera feed will open, and you will be prompted to select the color range you want to use for painting.
 4. Place an object with the desired color in front of the camera. The object will act as a paintbrush tip.
 5. Move the object around, and you will see the painting being drawn on the screen based on the object's movement.
